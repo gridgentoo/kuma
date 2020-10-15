@@ -1,5 +1,7 @@
 [![][kuma-logo]][kuma-url]
 
+Реверс инжиниринг kuma.
+
 Обзор ландшафта сервисных сеток Service Mesh
 
 https://docs.google.com/document/d/1s_j-efjvM95Dy8DtUmI6Ebr-V3-YR9cGbOcH5EtPFz4/edit#
