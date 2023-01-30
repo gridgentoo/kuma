@@ -32,8 +32,8 @@ require (
 	github.com/lib/pq v1.10.7
 	github.com/miekg/dns v1.1.50
 	github.com/natefinch/atomic v1.0.1
-	github.com/onsi/ginkgo/v2 v2.5.1
-	github.com/onsi/gomega v1.24.1
+	github.com/onsi/ginkgo/v2 v2.8.0
+	github.com/onsi/gomega v1.25.0
 	github.com/operator-framework/operator-lib v0.11.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pkg/errors v0.9.1
@@ -51,10 +51,10 @@ require (
 	go.uber.org/multierr v1.8.0
 	go.uber.org/zap v1.24.0
 	golang.org/x/exp v0.0.0-20221031165847-c99f073a8326
-	golang.org/x/net v0.4.0
+	golang.org/x/net v0.5.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.3.0
-	golang.org/x/text v0.5.0
+	golang.org/x/sys v0.4.0
+	golang.org/x/text v0.6.0
 	golang.org/x/time v0.3.0
 	google.golang.org/genproto v0.0.0-20221027153422-115e99e71e1c
 	google.golang.org/grpc v1.51.0
@@ -189,8 +189,8 @@ require (
 	golang.org/x/crypto v0.3.0 // indirect
 	golang.org/x/mod v0.7.0 // indirect
 	golang.org/x/oauth2 v0.1.0 // indirect
-	golang.org/x/term v0.3.0 // indirect
-	golang.org/x/tools v0.3.0 // indirect
+	golang.org/x/term v0.4.0 // indirect
+	golang.org/x/tools v0.5.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.2.0 // indirect
 	google.golang.org/api v0.102.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
